@@ -1,7 +1,10 @@
 Country,Confirmed,Deaths,Recovered,Active,Population,Continent
-Afghanistan,39703,1473,33064,5166,38928341,Asia
-Albania,15231,416,9406,5409,2877800,Europe
-Algeria,52940,1795,37170,13975,43851043,Africa
-Andorra,2696,55,1814,827,77265,Europe
-Angola,6246,218,2716,3312,32866268,Africa
-
+Aruba,,,,,106766,North America
+Africa Eastern and Southern,6.8141767,1326.663658,,,677243299,Africa
+Afghanistan,11.73,508.8084095,,,38928341,Asia
+Africa Western and Central,6.300104721,1714.4268,,,458803476,Africa
+Angola,7.7,1895.770869,,,32866268,Africa
+Albania,11.7,5215.276752,,,2837743,Europe
+Andorra,,,,,77265,Europe
+Arab World,11.48156506,5802.104129,,,436080728,Asia
+United Arab Emirates,5,,,,9890400,Asia
